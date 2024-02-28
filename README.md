@@ -19,6 +19,8 @@
 - 현배터리양 columns 생성
   - 충전량을 100.0 = 100%로 두고 "충전하기 직전 차에 남아있던 전기량"을 추가
   - 현배터리양 = 100 - 충전량
+
+<img style="margin-top: 20px" src='./image/elect_data.PNG'> </img>
  
 - 충전량 분포 확인
   - 1 
