@@ -24,7 +24,8 @@
 - 충전량 outlier 제거 후 분포 확인
   |box plot|dist plot|
   |------|---|
-  |<img style="margin-top: 10px" src='./image/charger_gauge.PNG' width="350px"> </img>|<img style="margin-top: 10px" src='./image/charger_gauge1.PNG' width="350px"> </img>|
+  |box 외에 100%가 넘어가는 부분도 제거 필요 | Positive skew로 추가 전처리 필요|
+  |<img style="margin-top: 10px" src='./image/charger_gauge.PNG' width="300px"> </img>|<img style="margin-top: 10px" src='./image/charger_gauge1.PNG' width="300px"> </img>|
   
  
 - 학습전 최종 데이터
