@@ -87,5 +87,10 @@
 - 연령 별 세분화(line plot)
   <img style="margin-top: 20px" src='./image/sangil_covid_medical_gender_result.png'> </img>
 
-- 2022년 연령 별 세분화(pie chart)
+- 연령 별 세분화(pie chart)
+  <img style="margin-top: 20px" src='./image/sangil_covid_medical_gender_piechart_result_2017.png'> </img>
+  <img style="margin-top: 20px" src='./image/sangil_covid_medical_gender_piechart_result_2018.png'> </img>
+  <img style="margin-top: 20px" src='./image/sangil_covid_medical_gender_piechart_result_2019.png'> </img>
+  <img style="margin-top: 20px" src='./image/sangil_covid_medical_gender_piechart_result_2020.png'> </img>
+  <img style="margin-top: 20px" src='./image/sangil_covid_medical_gender_piechart_result_2021.png'> </img>
   <img style="margin-top: 20px" src='./image/sangil_covid_medical_gender_piechart_result.png'> </img>
