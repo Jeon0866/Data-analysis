@@ -44,6 +44,6 @@
 - 예측 결과 시각화
   |blender|stacker| 
   |---|---|
-  |<img style="margin-top: 10px" src='./image/blend_visualization.PNG'> </img>|<img style="margin-top: 10px" src='./image/stacked_visualization.PNG'> </img>|
+  |<img style="margin-top: 10px" src='./image/blend_visualization.png'> </img>|<img style="margin-top: 10px" src='./image/stacked_visualization.png'> </img>|
 
 ## 2. 서울 강동구 상일동 상권 분석
