@@ -38,7 +38,7 @@
 
 - 결과
   - blender
-    <img style="margin-top: 10px" src='./image/charger_gauge.PNG' width="300px"> </img>
+  <img style="margin-top: 10px" src='./image/blender_result.PNG' width="300px"> </img>
     
 
 ## 2. 서울 강동구 상일동 상권 분석
