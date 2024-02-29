@@ -85,6 +85,7 @@
   <img style="margin-top: 20px" src='./image/sangil_covid_medical_result.png'> </img>
 
 - 연령 별 세분화(line plot)
+
   <img style="margin-top: 20px" src='./image/sangil_covid_medical_gender_result.png' width="500px">
 
 - 분기 및 연령별 세분화(pie chart)
