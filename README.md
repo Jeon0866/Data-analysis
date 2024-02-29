@@ -39,7 +39,7 @@
 - 결과
   |blender result|
   |---|
-  |<img style="margin-top: 10px" src='./image/blender_result.PNG' width="300px"> </img>|
+  |<img style="margin-top: 10px" src='./image/blender_result.PNG'> </img>|
   
     
 
