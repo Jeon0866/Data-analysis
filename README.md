@@ -45,5 +45,7 @@
   |blender|stacker| 
   |---|---|
   |<img style="margin-top: 10px" src='./image/blend_visualization.png'> </img>|<img style="margin-top: 10px" src='./image/stacked_visualization.png'> </img>|
+  |<img style="margin-top: 10px" src='./image/blend_r2_score.png'> </img>|<img style="margin-top: 10px" src='./image/stack_r2_score.png'> </img>|
+  |<img style="margin-top: 10px" src='./image/blend_learning_curve.png'> </img>|<img style="margin-top: 10px" src='./image/stack_learning_curve.png'> </img>|
 
 ## 2. 서울 강동구 상일동 상권 분석
