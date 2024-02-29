@@ -65,14 +65,16 @@
   - 상권에서 가장 변화가 큰 업종에 영향을 많이 준 인구통계학 정보를 통해, 재개발로 인한 인구 구성 변화가 어떠했는지 확인 
 
 - 업종별 시계열 매출 변화
-  <img style="margin-top: 20px" src='./image/sangil_sales.png' width="700px"> </img>
+  <img style="margin-top: 20px" src='./image/sangil_sales.png'> </img>
 
 - 상일동 골목상권 매출 Top10
+  <img style="margin-top: 20px" src='./image/sangil_sales_top10.png'> </img>
 
 - 골목상권 추세 
   |병의학 업종|유흥업| 
   |---|---|
   |일반의원이 큰 차이를 보이지 않는 것에 비해 의약품이 크게 상승 후 하락|호프, 슈퍼마켓, 노래방 크게 하락 <br> 호프는 코로나 이후 상승|
+  |<img style="margin-top: 20px" src='./image/sangil_medical_trend.png'> </img>|<img style="margin-top: 20px" src='./image/sangil_play.png'> </img>|
 
   |유사 업종|주기성을 보이는 업종| 
   |---|---|
