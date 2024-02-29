@@ -88,4 +88,4 @@
   |line plot|pie chart| 
   |---|---|
   |일반교습학원은 코로나 시기에 상승 후 하락 <br> 외국어학원은 하락 후 상승|화초, 편의점, 서적|
-  |<img style="margin-top: 20px" src='./image/sangil_covid_medical_gender_result.png'> </img>|<img style="margin-top: 20px" src='./image/sangil_covid_medical_gender_piechart_result.png'> </img>|
+  |<img style="margin-top: 20px" src='./image/sangil_covid_medical_gender_result.png' width="300px"> </img>|<img style="margin-top: 20px" src='./image/sangil_covid_medical_gender_piechart_result.png' width="300px"> </img>|
