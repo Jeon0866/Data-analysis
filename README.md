@@ -91,4 +91,4 @@
   |2018년|2020년| 
   |---|---|
   |5-60대가 의학품 소비를 많이 차지|4분기 기점 3-40대 비율이 크게 증가|
-  |<img style="margin-top: 20px" src='./image/sangil_covid_medical_gender_piechart_result_2018.png'> </img>|<img style="margin-top: 20px" src='./image/sangil_covid_medical_gender_piechart_result_2022.png'> </img>|
+  |<img style="margin-top: 20px" src='./image/sangil_covid_medical_gender_piechart_result_2018.png'> </img>|<img style="margin-top: 20px" src='./image/sangil_covid_medical_gender_piechart_result.png'> </img>|
