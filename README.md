@@ -24,7 +24,7 @@
 - 충전량 분포 확인  
   |box plot|dist plot|
   |------|---|
-  |box 외에 100%가 넘어가는 부분도 제거 필요|Positive skew <br> 극단적인 큰 outlier 존재 <br>|
+  |box 외 100%가 넘어간 부분 제거 필요|Positive skew <br> 극단적인 큰 outlier 존재 <br>|
   |<img style="margin-top: 10px" src='./image/charger_gauge.PNG' width="300px"> </img>|<img style="margin-top: 10px" src='./image/charger_gauge1.PNG' width="300px"> </img>|
   
  
