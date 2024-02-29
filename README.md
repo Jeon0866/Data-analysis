@@ -31,4 +31,14 @@
 - 학습전 최종 데이터
   <img style="margin-top: 20px" src='./image/elect_data.PNG'> </img>
 
+
+- Pycaret Model
+  - **상위 5개의 모델을 각 blending 및 stacking 하여 결과 확인**
+
+
+- 결과
+  - blender
+    <img style="margin-top: 10px" src='./image/charger_gauge.PNG' width="300px"> </img>
+    
+
 ## 2. 서울 강동구 상일동 상권 분석
