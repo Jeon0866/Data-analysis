@@ -37,9 +37,9 @@
 
 
 - 결과
-  |blender result|
-  |---|
-  |<img style="margin-top: 10px" src='./image/blender_result.PNG'> </img>|
+  |blender|stacker| 
+  |---|---|
+  |<img style="margin-top: 10px" src='./image/blender_result.PNG'> </img>|<img style="margin-top: 10px" src='./image/stacker_result.PNG'> </img>|
   
     
 
