@@ -85,7 +85,10 @@
   <img style="margin-top: 20px" src='./image/sangil_covid_medical_result.png'> </img>
 
 - 연령 별 세분화(line plot)
-  |line plot|pie chart| 
+  <img style="margin-top: 20px" src='./image/sangil_covid_medical_gender_result.png' width="500px">
+
+- 분기 및 연령별 세분화(pie chart)
+  |2018년|2020년| 
   |---|---|
-  |일반교습학원은 코로나 시기에 상승 후 하락 <br> 외국어학원은 하락 후 상승|화초, 편의점, 서적|
-  |<img style="margin-top: 20px" src='./image/sangil_covid_medical_gender_result.png' width="500px"> </img>|<img style="margin-top: 20px" src='./image/sangil_covid_medical_gender_piechart_result.png' width="500px"> </img>|
+  |5-60대가 의학품 소비를 많이 차지|4분기 기점 3-40대 비율이 크게 증가|
+  |<img style="margin-top: 20px" src='./image/sangil_covid_medical_gender_piechart_result_2018.png'> </img>|<img style="margin-top: 20px" src='./image/sangil_covid_medical_gender_piechart_result_2022.png'> </img>|
