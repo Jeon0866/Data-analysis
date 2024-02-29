@@ -9,13 +9,16 @@
 |electronic_car_data|개인|23.10.24(1일)|서울시 전기차 충전소 충전량 데이터를 활용한 충전종료시각 예측|
 |sangil_dong_commercial_analysis|4인|23.10(3일)|서울 강동구 상일동 상권 분석|
 
+<br>
 
 ## 1. 서울시 전기차 충전소 데이터 예측
 > 서울시 전기차 충전소 충전량 데이터를 활용한 EDA 분석 시각화 충전종료시각 예측을 위한 pycaret 사용
 - 데이터: [서울 열린데이터광장 서울시 전기차 충전소 데이터](https://data.seoul.go.kr/dataList/OA-22249/F/1/datasetView.do)
 
+
 - 목적
   - 종료시각예측을 통해 실제 차량의 대기시간을 예상하고 유동 흐름을 조절 할 수 있는지 확인
+
 
 - 현배터리양 columns 생성
   - 충전량을 100.0 = 100%로 두고 "충전하기 직전 차에 남아있던 전기량"을 추가
@@ -41,6 +44,7 @@
   |blender|stacker| 
   |---|---|
   |<img style="margin-top: 10px" src='./image/blender_result.PNG'> </img>|<img style="margin-top: 10px" src='./image/stacker_result.PNG'> </img>|
+
   
 - 예측 결과 시각화
   |blender|stacker| 
@@ -50,3 +54,5 @@
   |<img style="margin-top: 10px" src='./image/blend_learning_curve.png'> </img>|<img style="margin-top: 10px" src='./image/stack_learning_curve.png'> </img>|
 
 ## 2. 서울 강동구 상일동 상권 분석
+
+<br> 
